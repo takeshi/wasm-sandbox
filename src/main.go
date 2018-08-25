@@ -1,9 +1,10 @@
 package main
 
 import (
-	u "app/wasm/src/util"
 	"log"
 	"syscall/js"
+
+	u "github.com/takeshi/wasm-sandbox/src/util"
 )
 
 func main() {

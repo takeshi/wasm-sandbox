@@ -16,8 +16,8 @@ settings:
     force: false
     interval: 0s
 schema:
-- name: D:\my\go\src\app\wasm
-  path: D:\my\go\src\app\wasm
+- name: wasm-sandbox
+  path: ./
   commands:
     build:
       args:
